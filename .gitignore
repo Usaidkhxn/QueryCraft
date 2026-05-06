@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backend runtime files
+backend/querycraft.db
+backend/*.db
+backend/uploads/
+backend/__pycache__/
+backend/app/__pycache__/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

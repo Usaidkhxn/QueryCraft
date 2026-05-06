@@ -1,0 +1,17 @@
+Show graduation rate of all institute in 2024 with a bar plot
+Show total enrollment of all institutes in 2024 as a bar plot
+Show all universities total enrollment trend from 2021 to 2024 as a line chart.
+Show graduation rate by race and year for Rowan University as a heatmap.
+Show number of students admitted for all institutions in 2024 as a bar plot
+Show number of applicants for all institutions in 2024 as a bar plot
+Show percentage of students receiving any aid by institution in 2023 as a bar chart.
+Show average federal grant amount by institution in 2023 as a bar chart.
+Show percent of enrolled students who submitted SAT scores by institution in 2024 as a bar chart
+
+Integrated Postsecondary Education Data System
+
+
+
+
+
+
