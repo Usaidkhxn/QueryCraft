@@ -1,4 +1,4 @@
-# QueryCraft — Verified Analytics Copilot
+# QueryCraft: Verified Analytics Copilot
 
 **QueryCraft** is a local “talk to your data” analytics copilot for Excel, ZIP, and folder-based datasets. Users can upload structured spreadsheet data, ask questions in natural language, and receive transparent answers backed by generated SQL, result tables, charts, and schema evidence.
 
@@ -347,21 +347,21 @@ http://localhost:5173/
 
 ## How to Use the App
 
-### Option 1 — Upload one Excel file
+### Option 1 - Upload one Excel file
 
 1. Click **Upload Excel**.
 2. Select a `.xlsx` or `.xls` file.
 3. Wait for ingestion to finish.
 4. Ask a question in the chat box.
 
-### Option 2 — Upload ZIP of Excel files
+### Option 2 - Upload ZIP of Excel files
 
 1. Click **Upload ZIP**.
 2. Select a `.zip` file containing Excel files.
 3. Wait for ingestion to finish.
 4. Ask questions across the uploaded files.
 
-### Option 3 — Ingest local folder
+### Option 3 - Ingest local folder
 
 If your Excel files are stored in a folder, paste the folder path into the sidebar input and click **Ingest Folder**.
 
